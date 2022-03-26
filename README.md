@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://github-readme-stats.vercel.app/api?username=bhuvnesh2703&theme=dark&count_private=true" />
+![Bhuvnesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhuvnesh2703&show_icons=true&theme=radical)
 <!--
 **bhuvnesh2703/bhuvnesh2703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
